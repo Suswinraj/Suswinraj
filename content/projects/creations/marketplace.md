@@ -1,11 +1,10 @@
 {
-    "title":"Atlassian Marketplace Plugins",
-    "link":"https://marketplace.atlassian.com/vendors/1017039",
-    "image":"/img/marketplace-summary.webp",
-    "description":"Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.",
-    "tags":["Java", "Spring", "REST APIs", "Javascript", "Atlassian Developer Ecosystem", "Bamboo", "JIRA", "Bitbucket", "Confluence","DevOps"],
-    "fact":"1,500+ Active installations across large and small companies."
+  "title": "Serverless Visitor Counter",
+  "link": "https://github.com/",
+  "image": "/img/marketplace-summary.webp",
+  "description": "A production-style serverless visitor counter using API Gateway, Lambda, DynamoDB, and S3 static hosting.",
+  "tags": ["AWS Lambda", "API Gateway", "DynamoDB", "S3", "CloudFront", "Serverless"],
+  "fact": "Implemented end-to-end event flow with minimal operational overhead."
 }
 
-
-Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.
+Designed a lightweight serverless application to track portfolio visits in real time. The project emphasizes scalability, low cost, and simplified operations.

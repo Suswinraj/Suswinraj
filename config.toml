@@ -1,4 +1,4 @@
-title = "Sathish Kumar Thiyagarajan"
+title = "SUSWINRAJ S K | AWS Cloud Practitioner"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -8,27 +8,26 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Tamil Nadu, India"
 favicon = "/favicon.ico"
-firstName = "Sathish Kumar"
-lastName = "Thiyagarajan"
-phone = "1-555-555-1234"
+firstName = "SUSWINRAJ"
+lastName = "S K"
+phone = ""
 showSocializations = true
-showContact = false
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
-
+showContact = true
+sections = ["skills","certifications","creations","experience","education"]
 
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = ""
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/suswinraj-sk"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/"
 name = "GitHub"
 
 [outputs]

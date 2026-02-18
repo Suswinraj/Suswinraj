@@ -1,20 +1,14 @@
 [
-    {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
-    },
-    {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
-    }
+  {
+    "role": "AWS Cloud Practitioner",
+    "company": "Independent Projects & Learning",
+    "summary": "Designed and implemented cloud-native lab projects focused on secure, scalable, and cost-aware AWS solutions.\n- Built highly available web hosting architecture using EC2, ALB, and Auto Scaling concepts\n- Implemented IAM least-privilege practices and basic cloud security monitoring\n- Practiced storage and database patterns using S3 and managed database services\n- Documented architecture diagrams and deployment workflows for repeatability",
+    "range": "2024 - Present"
+  },
+  {
+    "role": "Cloud & DevOps Enthusiast",
+    "company": "Portfolio Development",
+    "summary": "Developed hands-on projects that demonstrate practical understanding of cloud operations and automation.\n- Created static and dynamic hosting setups using AWS services\n- Applied monitoring and logging fundamentals for operational visibility\n- Used Git-based workflows to manage changes and deployment iterations",
+    "range": "2023 - 2024"
+  }
 ]
